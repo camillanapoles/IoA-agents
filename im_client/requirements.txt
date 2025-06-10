@@ -13,5 +13,5 @@ websockets
 docker
 sqlitedict==2.1.0
 aiofiles
-requests==2.31.0
+requests==2.32.4
 aiohttp
